@@ -1,0 +1,17 @@
+{
+  "name": "discord-ai-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot that learns from messages using a custom Markov chain, supports math commands, and persists its memory.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "samenal",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "mathjs": "^11.8.0",
+    "seedrandom": "^3.0.5"
+  }
+}
+
