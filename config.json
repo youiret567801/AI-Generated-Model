@@ -1,0 +1,4 @@
+{
+"CHANNEL_ID": "INSERT CHANNEL ID HERE" ,
+"BOT_TOKEN":"INSERT BOT TOKEN HERE (User Tokens dont work, must use a bot token from developer portal with proper permissions)"
+}
